@@ -40,7 +40,7 @@ Install E-Shop with npm
 ```
 
 
-## Tech Staks
+## Tech Stacks
 
 ### React Js
 
@@ -82,4 +82,8 @@ Install E-Shop with npm
                         We can use it to directly access our dispatch actions without having to use mapDispatchToProps in our component.
 
     2. useSelector :-   The useSelector() is approximately equivalent to the mapStateToProps argument to connect conceptually.
-                        The selector will be run whenever the function component renders           
+                        The selector will be run whenever the function component renders
+                        
+## Author
+
+- [@rushikesh-mahamuni](https://github.com/rushikesh-mahamuni)
